@@ -6,17 +6,6 @@
 This Python program **simulates and compares the radioactive decay** of multiple isotopes on the same graph.  
 Each isotope’s decay is modeled using the **exponential decay law**:
 
-\[
-N(t) = N_0 e^{-\lambda t}
-\]
-
-where  
-- \( N_0 \) → Initial number of nuclei  
-- \( \lambda = \frac{\ln(2)}{\text{Half-life}} \) → Decay constant  
-- \( t \) → Time  
-- \( N(t) \) → Number of nuclei remaining after time \( t \)
-
----
 
 ## ⚙️ Features
 
