@@ -38,9 +38,6 @@ Initial number of nuclei for Th-228: 500
 Half-life of Th-228 (seconds): 10
 Number of time steps: 100
 
-
----
-
 ## 📊 Example Output
 
 🖼️ **Generated Plot:**  
@@ -50,15 +47,12 @@ The figure is automatically saved as:
 
 Multiple_Isotopes_Comparison.png
 
-
----
-
 ## 🧰 Requirements
 
 Make sure you have the following installed:
 
-pip install numpy matplotlib
----
+/bash pip install numpy matplotlib /bash
+
 
 🚀 How to Run
 
