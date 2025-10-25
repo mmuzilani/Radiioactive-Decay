@@ -68,8 +68,8 @@ Multiple_Isotopes_Comparison.png
 
 Make sure you have the following installed:
 
-```bash
 pip install numpy matplotlib
+---
 
 🚀 How to Run
 
@@ -79,6 +79,6 @@ python multiple_isotopes_decay.py
 ⭐ If you like this project, consider giving it a star on GitHub!
 
 ### 🧑‍🔬 Author: **Md. Mahiuddin Zilani**
-
 ---
+
 
