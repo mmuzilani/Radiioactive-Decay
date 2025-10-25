@@ -51,7 +51,7 @@ Multiple_Isotopes_Comparison.png
 
 Make sure you have the following installed:
 
-/bash pip install numpy matplotlib /bash
+pip install numpy matplotlib 
 
 
 🚀 How to Run
